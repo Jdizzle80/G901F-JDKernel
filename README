@@ -1,0 +1,12 @@
+Instructions-
+
+*     Update links to toolchain in build_kernel.sh  clean.sh and makefile I used arm-eabi-4.7 from google source
+
+*     ./build_kernel Then wait output is to releasetools folder as flashable zip and tar
+
+Thanks
+
+Credit to Javilonas for his exsisting work on G901F kernel.
+
+Jdizzle80
+kernowtrader@icloud.com
