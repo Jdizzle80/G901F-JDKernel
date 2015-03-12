@@ -177,7 +177,7 @@ echo "Finished : `date +'%d/%m/%y %H:%M:%S'`"
 find . -name "boot.img"
 find . -name "*.ko"
 
-echo "#################### Preparando flasheables ####################"
+echo "#################### Preparing Flashables  ####################"
 
 cp boot.img $KERNELDIR/releasetools/zip
 cp boot.img $KERNELDIR/releasetools/tar
